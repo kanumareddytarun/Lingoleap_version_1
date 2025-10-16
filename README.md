@@ -9,7 +9,7 @@ LingoLeap is a full-stack language learning platform built with *Django (backend
 - RESTful API using Django REST Framework
 - JWT-based authentication
 - Integration with AssemblyAI and Google Generative AI
-- Cross-origin resource handling using Django CORS Headers
+- Cross-origin resource handling using Django CORS Header
 - Responsive frontend built with Node.js framework
 - Cloud storage integration with Google Cloud Storage
 
